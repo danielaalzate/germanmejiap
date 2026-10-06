@@ -1,1 +1,37 @@
-{"name":"Germán Mejía Pavony","colors":{"background":"#fff8ed","text":"#262522","accent":"#a43d18","books":"#f3eadb"},"typography":{"display":"EB Garamond","body":"Source Sans 3"},"layout":{"maxWidth":1240,"mobileBreakpoint":720},"approvedExceptions":["cream palette","section labels"],"motion":"restrained, reduced-motion respected"}
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-06T00:00:00Z",
+  "title": "Design System: Germán Rodrigo Mejía Pavony",
+  "extensions": {
+    "shadows": [
+      {"name":"book","value":"12px 18px 12px #30221725","purpose":"Cover drop-shadow filter."},
+      {"name":"dialog","value":"0 20px 100px #0005","purpose":"Modal separation."},
+      {"name":"mobile-nav","value":"0 12px 20px #0002","purpose":"Expanded mobile navigation."}
+    ],
+    "motion": [
+      {"name":"button","value":"background .2s, transform .2s","purpose":"Hover darkens and translates up 2px."},
+      {"name":"book","value":"transform .3s","purpose":"Hover translates up 10px and removes rotation."},
+      {"name":"reduced-motion","value":"transition: none; scroll-behavior: auto","purpose":"Respect reduced motion preferences."}
+    ],
+    "breakpoints": [
+      {"name":"mobile-max","value":"720px"},
+      {"name":"compact-max","value":"1000px"},
+      {"name":"wide-min","value":"1700px"}
+    ]
+  },
+  "components": [
+    {"name":"Primary button","kind":"button","refersTo":"button-primary","description":"Main action.","html":"<button class=\"ds-primary\">Conocer su trayectoria</button>","css":".ds-primary{font:16px 'Source Sans 3','Segoe UI',sans-serif;border:1px solid #a43d18;background:#a43d18;color:#fff;padding:13px 23px;min-height:48px;cursor:pointer;transition:background .2s,transform .2s}.ds-primary:hover{background:#7e2c10;transform:translateY(-2px)}.ds-primary:focus-visible{outline:3px solid #ba5429;outline-offset:5px}@media(prefers-reduced-motion:reduce){.ds-primary{transition:none}}"},
+    {"name":"Outline button","kind":"button","refersTo":"button-outline","description":"Secondary action on dark photography.","html":"<div class=\"ds-dark\"><button class=\"ds-outline\">Escuchar</button></div>","css":".ds-dark{background:#262522;padding:20px}.ds-outline{font:16px 'Source Sans 3','Segoe UI',sans-serif;border:1px solid #fff;background:transparent;color:#fff;padding:13px 23px;min-height:48px;cursor:pointer;transition:background .2s,transform .2s}.ds-outline:hover{background:#fff;color:#262522;transform:translateY(-2px)}.ds-outline:focus-visible{outline:3px solid #ba5429;outline-offset:5px}@media(prefers-reduced-motion:reduce){.ds-outline{transition:none}}"},
+    {"name":"Text link","kind":"button","refersTo":"text-link","description":"Quiet supporting action.","html":"<button class=\"ds-link\">Ver publicaciones</button>","css":".ds-link{font:17px 'Source Sans 3','Segoe UI',sans-serif;padding:0;background:none;border:0;color:#97360f;text-decoration:underline;text-underline-offset:5px;cursor:pointer}.ds-link:focus-visible{outline:3px solid #ba5429;outline-offset:5px}"},
+    {"name":"Text field","kind":"input","refersTo":"input","description":"Contact field; delivery remains pending.","html":"<label class=\"ds-label\">Nombre<input class=\"ds-input\" autocomplete=\"name\"></label>","css":".ds-label{display:block;font:15px 'Source Sans 3','Segoe UI',sans-serif;color:#262522}.ds-input{display:block;width:100%;padding:12px;border:1px solid #aa9c89;background:#fff;font:18px 'Source Sans 3','Segoe UI',sans-serif;color:#262522}.ds-input:focus-visible{outline:3px solid #ba5429;outline-offset:5px}"},
+    {"name":"Navigation","kind":"nav","description":"Compact sans-serif section links.","html":"<nav class=\"ds-nav\"><a href=\"#trayectoria\">Trayectoria</a><a href=\"#conferencias\">Conferencias</a><a href=\"#libros\">Libros</a></nav>","css":".ds-nav{display:flex;gap:30px;align-items:center;background:#fff8ed;font:15px 'Source Sans 3','Segoe UI',sans-serif}.ds-nav a{color:#262522;text-decoration:none}.ds-nav a:hover{color:#a43d18}.ds-nav a:focus-visible{outline:3px solid #ba5429;outline-offset:5px}"}
+  ],
+  "narrative": {
+    "northStar":"A historian's editorial archive",
+    "overview":"Warm paper, literary typography and documentary photographs frame a living historian's work. Generous whitespace and restrained controls keep the reading experience clear.",
+    "keyCharacteristics":["Cream paper with burnt-orange accents.","Garamond headlines and practical sans-serif reading text.","Natural photographic proportions and asymmetrical book arrangements."],
+    "rules":[],
+    "dos":["Do preserve natural image proportions.","Do retain the vertical conference list and asymmetrical book gallery.","Do use the approved cream, burnt-orange and literary typography system."],
+    "donts":["Don't add explanatory paragraphs beneath the conference or book headings.","Don't imply that pending video or contact delivery works.","Don't repeat the geographic exploration section."]
+  }
+}
