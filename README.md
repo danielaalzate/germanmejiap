@@ -7,7 +7,7 @@ Sitio estático en español. La versión publicable está en `dist/`: servir est
 - `/`: portada editorial aprobada.
 - `/trayectoria/`, `/conferencias/`, `/obra/`, `/conversaciones/`, `/prensa/` y `/contacto/`: seis índices o páginas principales.
 - `/obra/{id}/`: 66 fichas bibliográficas; búsqueda, tipo, tema, orden y paginación en el índice mediante parámetros de URL.
-- `/conversaciones/{id}/`: 70 episodios del archivo de Javeriana Estéreo con reproductores de YouTube mediante `youtube-nocookie.com`.
+- `/conversaciones/{id}/`: 70 episodios del archivo con enlaces para escuchar en Javeriana Estéreo, sin reproductores dentro del sitio.
 - `/prensa/{id}/`: tres presentaciones con enlace al medio original.
 
 En total: 145 rutas internas más la portada. Las páginas internas incluyen HTML prerenderizado y metadatos propios; JavaScript activa filtros, referencias y otras interacciones. `dist/archive.css` y `dist/archive.js` amplían los estilos y comportamientos compartidos de la portada. La identidad aprobada permanece documentada en `DESIGN.md` y `.impeccable/design.json`.

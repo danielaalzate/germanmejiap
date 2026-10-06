@@ -1,0 +1,12 @@
+const fs=require('fs');
+let js=fs.readFileSync('dist/archive.js','utf8');
+js=js.replace("${link('conversaciones/'+p.id,esc(p.title))}","${sourceLink(p.source,esc(p.title))}").replace("${link('conversaciones/'+p.id,'Escuchar','text-link')}","${sourceLink(p.source,'Escuchar en Javeriana Estéreo')}");
+js=js.replace(/<div class="video-frame"><iframe[\s\S]*?<\/iframe><\/div>/,'');
+js=js.replace('Puede reproducirlo aquí y continuar explorando los demás encuentros desde el catálogo del programa.','Para escuchar este capítulo, visite el archivo del programa en Javeriana Estéreo y seleccione su título.');
+js=js.replace("sourceLink(e.source,'Archivo original de Javeriana Estéreo')","sourceLink(e.source,'Escuchar en Javeriana Estéreo')");
+js=js.replace('El archivo de conversaciones de Germán Mejía Pavony en Javeriana Estéreo.','Explore los capítulos de Germán Mejía Pavony. La reproducción se realiza en Javeriana Estéreo.');
+fs.writeFileSync('dist/archive.js',js);
+fs.appendFileSync('dist/archive.css','\n.episode-list article{grid-template-columns:50px 1fr 175px}.episode-list article>a{font-size:14px;color:#97360f;text-decoration:underline;text-underline-offset:4px}@media(max-width:720px){.episode-list article{grid-template-columns:1fr}}\n');
+function walk(dir){for(const entry of fs.readdirSync(dir,{withFileTypes:true})){const p=dir+'/'+entry.name;if(entry.isDirectory())walk(p);else if(p.endsWith('.html')){let t=fs.readFileSync(p,'utf8').replace('/archive.js?v=1','/archive.js?v=2').replace('/archive.css?v=1','/archive.css?v=2');fs.writeFileSync(p,t)}}}walk('dist');
+let test=fs.readFileSync('check-internals.cjs','utf8');test=test.replace("assert.equal(await p.locator('iframe').count(),1);assert.match(await p.locator('iframe').getAttribute('src'),/youtube-nocookie/);","assert.equal(await p.locator('iframe').count(),0);assert.equal(await p.getByRole('link',{name:'Escuchar en Javeriana Estéreo'}).getAttribute('href'),'https://javerianaestereo.com/tiempos-del-ruido');");fs.writeFileSync('check-internals.cjs',test);
+let readme=fs.readFileSync('README.md','utf8').replace('70 episodios del archivo de Javeriana Estéreo con reproductores de YouTube mediante `youtube-nocookie.com`.','70 episodios del archivo con enlaces para escuchar en Javeriana Estéreo, sin reproductores dentro del sitio.');fs.writeFileSync('README.md',readme);
