@@ -19,7 +19,8 @@ for external,internal in [('https://www.radionacional.co/cultura/san-victorino-p
  home=home.replace('href="'+external+'" target="_blank" rel="noopener"','href="/prensa/'+internal+'/"')
 (dist/'index.html').write_text(home,encoding='utf-8')
 shell=re.sub(r'<main id="contenido">.*?</main>','<main id="contenido"><div class="inner-page wrap"><p>Cargando el archivo…</p></div></main>',home,flags=re.S)
-routes=['obra','trayectoria','conferencias','conversaciones','prensa','contacto']+['obra/'+p['id'] for p in data['publications']]+['conversaciones/'+p['id'] for p in data['episodes']]+['prensa/'+s for s in ['san-victorino','entrevista-uniciso','perfil-javeriana']]
+press=json.loads((dist/'press.json').read_text(encoding='utf-8'))
+routes=['obra','trayectoria','conferencias','conversaciones','prensa','contacto']+['obra/'+p['id'] for p in data['publications']]+['conversaciones/'+p['id'] for p in data['episodes']]+['prensa/'+p['id'] for p in press]
 for route in routes:
  path=dist/route/'index.html';path.parent.mkdir(parents=True,exist_ok=True);path.write_text(shell,encoding='utf-8')
 print(str(len(routes))+' páginas internas generadas')
