@@ -1,0 +1,2 @@
+# Approved design
+Cream #fff8ed, ink #262522, burnt orange #a43d18. EB Garamond headings, Source Sans 3 body. Large panoramic hero uses object-fit cover without distortion. Portrait natural 1.7 aspect ratio. Conference icons as vertical editorial list; book gallery asymmetric, no alignment between themes and books. Full-width radio photograph banner. Press heading above feature and two thumbnail rows. Whitespace and restrained interactions. Mobile uses stacked elements and no artificial image stretching.
