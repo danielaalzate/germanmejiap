@@ -1,0 +1,1350 @@
+{
+  "publications": [
+    {
+      "id": "los-anos-del-cambio-historia-urbana-de-bogota-18201910",
+      "title": "Los años del cambio. Historia urbana de Bogotá, 1820–1910",
+      "year": 1999,
+      "type": "Libros",
+      "publisher": "CEJA / Instituto Colombiano de Cultura Hispánica",
+      "role": "Autor",
+      "isbn": "9586831108",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "Bogotá entre 1820 y 1910: una investigación sobre la transformación de la ciudad durante el siglo XIX. Un punto de entrada a la historia urbana de la capital.",
+      "cover": "los-anos-del-cambio.webp",
+      "editions": "Primera edición: 1999. Segunda edición: CEJA / ICANH, 2000; ISBN 9586833089."
+    },
+    {
+      "id": "la-ciudad-de-los-conquistadores-historia-de-bogota-15361604",
+      "title": "La ciudad de los conquistadores. Historia de Bogotá, 1536–1604",
+      "year": 2012,
+      "type": "Libros",
+      "publisher": "Editorial Pontificia Universidad Javeriana",
+      "role": "Autor",
+      "isbn": "9789587165302",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "Los primeros años de Santafé constituyen el marco de esta historia de Bogotá. La ficha reúne la referencia de la edición que estudia el período comprendido entre 1536 y 1604.",
+      "cover": "la-ciudad-de-los-conquistadores.jpg",
+      "editions": ""
+    },
+    {
+      "id": "la-aventura-urbana-de-america-latina",
+      "title": "La aventura urbana de América Latina",
+      "year": 2013,
+      "type": "Libros",
+      "publisher": "Fundación Mapfre / Taurus",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "América Latina",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "Una mirada a la historia de las ciudades latinoamericanas. Forma parte de la colección América Latina en la Historia Contemporánea, serie Recorridos.",
+      "cover": "la-aventura-urbana.jpg",
+      "editions": ""
+    },
+    {
+      "id": "historia-concisa-de-colombia",
+      "title": "Historia concisa de Colombia",
+      "year": 2013,
+      "type": "Libros",
+      "publisher": "Editorial Pontificia Universidad Javeriana / Universidad del Rosario",
+      "role": "Coautor con Michael J. LaRosa",
+      "isbn": "9789587166804",
+      "topic": "Colombia",
+      "source": "https://www.javeriana.edu.co/editorial/w/historia-concisa-colombia",
+      "description": "Una historia de Colombia escrita junto con Michael J. LaRosa. El catálogo reúne sus ediciones bajo una misma obra para facilitar la consulta.",
+      "cover": "",
+      "editions": "Edición de 2013: Historia concisa de Colombia (1810–2013), traducción de Matías Godoy. Edición de Debate: 2023. Cada edición puede presentar actualizaciones y una paginación diferente."
+    },
+    {
+      "id": "del-canon-a-la-memoria-el-pasado-como-historia-de-colombia",
+      "title": "Del canon a la memoria. El pasado como historia de Colombia",
+      "year": 2020,
+      "type": "Libros",
+      "publisher": "Editorial Pontificia Universidad Javeriana",
+      "role": "Autor",
+      "isbn": "9789587815474",
+      "topic": "Colombia",
+      "source": "https://perfilesycapacidades.javeriana.edu.co/en/publications/del-canon-a-la-memoria-el-pasado-como-historia-de-colombia/",
+      "description": "Una obra dedicada a la escritura del pasado colombiano y a su relación con la memoria. Se integra aquí en el recorrido por las preguntas historiográficas del autor.",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "despues-de-la-heroica-fase-de-exploracion-la-historiografia-urbana-en-america-latina",
+      "title": "Después de la heroica fase de exploración. La historiografía urbana en América Latina",
+      "year": 2021,
+      "type": "Libros",
+      "publisher": "Universidad de Guanajuato / Editorial Pontificia Universidad Javeriana",
+      "role": "Coordinación con Gerardo Martínez Delgado",
+      "isbn": "",
+      "topic": "América Latina",
+      "source": "https://repositorio.flacsoandes.edu.ec/bitstream/10469/20278/2/LFLACSO-Martinez-COOR-152336-PUBCOM.pdf",
+      "description": "Volumen colectivo coordinado con Gerardo Martínez Delgado sobre la historiografía urbana latinoamericana. Reúne el trabajo de distintos investigadores; la participación de Germán corresponde a la coordinación de la obra.",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "entre-la-libertad-y-el-orden-una-historia-de-la-derecha-en-colombia",
+      "title": "Entre la libertad y el orden. Una historia de la derecha en Colombia",
+      "year": 2025,
+      "type": "Libros",
+      "publisher": "Debate",
+      "role": "Autor",
+      "isbn": "9786287669727",
+      "topic": "Colombia",
+      "source": "https://www.penguinlibros.com/co/tematicas/371834-libro-entre-la-libertad-y-el-orden-9786287669727",
+      "description": "Una investigación sobre la historia de la derecha en Colombia a través de quince momentos, desde el siglo XIX hasta el XXI. Publicado por Debate en abril de 2025.",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "proceso-seguido-al-general-santander-por-consecuencia-del-acontecimiento-de-la-noche-del-25-de-septiembre-de-1828-en-bogota",
+      "title": "Proceso seguido al General Santander por consecuencia del acontecimiento de la noche del 25 de septiembre de 1828 en Bogotá",
+      "year": 1988,
+      "type": "Libros",
+      "publisher": "Fundación Francisco de Paula Santander",
+      "role": "Colaboración en compilación y crítica documental",
+      "isbn": "9586430359",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "causas-y-memorias-de-los-conjurados-del-25-de-septiembre-de-1828",
+      "title": "Causas y Memorias de los Conjurados del 25 de septiembre de 1828",
+      "year": 1990,
+      "type": "Libros",
+      "publisher": "Fundación Francisco de Paula Santander · 3 volúmenes",
+      "role": "Colaboración",
+      "isbn": "9586430960",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "colombia-en-el-siglo-xix",
+      "title": "Colombia en el siglo XIX",
+      "year": 1999,
+      "type": "Libros",
+      "publisher": "Planeta",
+      "role": "Coeditor",
+      "isbn": "9586147797",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "la-ciudad-y-las-ciencias-sociales-ensayos-y-aproximaciones",
+      "title": "La ciudad y las ciencias sociales. Ensayos y aproximaciones",
+      "year": 2000,
+      "type": "Libros",
+      "publisher": "CEJA / Instituto Distrital de Cultura y Turismo",
+      "role": "Coeditor con Fabio Zambrano",
+      "isbn": "9586832163",
+      "topic": "Historia urbana",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "the-united-states-discovers-panama-the-writings-of-soldiers-scholars-scientists-and-scoundrels-18501905",
+      "title": "The United States Discovers Panama. The Writings of Soldiers, Scholars, Scientists, and Scoundrels, 1850–1905",
+      "year": 2003,
+      "type": "Libros",
+      "publisher": "Rowman & Littlefield",
+      "role": "Coeditor",
+      "isbn": "0742527212",
+      "topic": "América Latina",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "la-nueva-granada-colonial-seleccion-de-textos-historicos",
+      "title": "La Nueva Granada Colonial. Selección de textos históricos",
+      "year": 2005,
+      "type": "Libros",
+      "publisher": "Universidad de los Andes / CESO",
+      "role": "Coeditor",
+      "isbn": "9586951960",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "an-atlas-and-survey-of-latin-american-history",
+      "title": "An Atlas and Survey of Latin American History",
+      "year": 2006,
+      "type": "Libros",
+      "publisher": "M. E. Sharpe",
+      "role": "Colaboración",
+      "isbn": "0765615975",
+      "topic": "América Latina",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "atlas-historico-de-bogota-cartografia-17912007",
+      "title": "Atlas histórico de Bogotá. Cartografía 1791–2007",
+      "year": 2007,
+      "type": "Libros",
+      "publisher": "Archivo de Bogotá / IDPC / Planeta",
+      "role": "Colaboración",
+      "isbn": "9789584215536",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "colombia-a-concise-contemporary-history",
+      "title": "Colombia: A Concise Contemporary History",
+      "year": 2012,
+      "type": "Libros",
+      "publisher": "Rowman & Littlefield",
+      "role": "Coautor con Michael J. LaRosa",
+      "isbn": "9781442200935",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "santa-fe-iglesias-coloniales-conventos-y-ermitas",
+      "title": "Santa Fe. Iglesias coloniales, conventos y ermitas",
+      "year": 2013,
+      "type": "Libros",
+      "publisher": "Arquidiócesis de Bogotá / Consuelo Mendoza Ediciones",
+      "role": "Coeditor académico",
+      "isbn": "9789589875681",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "algunas-consideraciones-en-torno-a-que-es-la-historia",
+      "title": "Algunas consideraciones en torno a Qué es la Historia",
+      "year": 1981,
+      "type": "Artículos",
+      "publisher": "Mente, 1",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Historia e historiografía",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "analisis-de-la-instancia-ideologica-en-la-obra-de-venancio-ortiz",
+      "title": "Análisis de la instancia ideológica en la obra de Venancio Ortiz",
+      "year": 1982,
+      "type": "Artículos",
+      "publisher": "Revista Javeriana, 483, pp. 265–271",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Historia e historiografía",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "las-sociedades-democraticas-18481854-problemas-historiograficos",
+      "title": "Las Sociedades Democráticas, 1848–1854. Problemas historiográficos",
+      "year": 1982,
+      "type": "Artículos",
+      "publisher": "Universitas Humanística, 11 (17), pp. 145–176",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "el-sujeto-social-y-la-historia-oral-una-propuesta-metodologica",
+      "title": "El sujeto social y la historia oral: una propuesta metodológica",
+      "year": 1986,
+      "type": "Artículos",
+      "publisher": "Universitas Humanística, 14 (26), pp. 141–148",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Historia e historiografía",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "rebeliones-indigenas-en-mexico-y-el-alto-peru-durante-el-periodo-colonial-tendencias-investigativas",
+      "title": "Rebeliones indígenas en México y el Alto Perú durante el período colonial: tendencias investigativas",
+      "year": 1986,
+      "type": "Artículos",
+      "publisher": "Boletín de Historia, 3 (5–6), pp. 20–33",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "América Latina",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "muerte-y-vida-cotidiana-la-historia-ante-una-proscripcion",
+      "title": "Muerte y vida cotidiana. La historia ante una proscripción",
+      "year": 1987,
+      "type": "Artículos",
+      "publisher": "Trocadero, 3 (4), pp. 3–7",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Historia e historiografía",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "bogota-condiciones-de-vida-y-dominacion-a-finales-del-siglo-xix",
+      "title": "Bogotá, condiciones de vida y dominación a finales del siglo XIX",
+      "year": 1988,
+      "type": "Artículos",
+      "publisher": "Boletín de Historia, 5 (9–10), pp. 26–40",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "el-dios-de-los-santaferenos-espacio-y-tiempo-en-una-sociedad-urbana-precapitalista",
+      "title": "El Dios de los santafereños. Espacio y tiempo en una sociedad urbana precapitalista",
+      "year": 1988,
+      "type": "Artículos",
+      "publisher": "Trocadero, 4 (5), pp. 5–12",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "la-historia-y-el-tiempo",
+      "title": "La Historia y el Tiempo",
+      "year": 1990,
+      "type": "Artículos",
+      "publisher": "Universitas Humanística, 19 (32), pp. 54–62",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Historia e historiografía",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "los-itinerarios-de-la-transformacion-urbana-bogota-18201910",
+      "title": "Los itinerarios de la transformación urbana. Bogotá, 1820–1910",
+      "year": 1997,
+      "type": "Artículos",
+      "publisher": "Anuario Colombiano de Historia Social y de la Cultura, 24, pp. 101–137",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "la-pregunta-por-la-existencia-de-la-historia-urbana",
+      "title": "La pregunta por la existencia de la historia urbana",
+      "year": 1999,
+      "type": "Artículos",
+      "publisher": "Historia Crítica, 18, pp. 23–35",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Historia urbana",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "la-historia-urbana-y-la-valoracion-del-patrimonio-urbano",
+      "title": "La historia urbana y la valoración del patrimonio urbano",
+      "year": 2000,
+      "type": "Artículos",
+      "publisher": "Revista Javeriana, 134 (664), pp. 281–285",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Historia urbana",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "la-ciudad-y-el-ciudadano",
+      "title": "La ciudad y el ciudadano",
+      "year": 2000,
+      "type": "Artículos",
+      "publisher": "Arquitectura +A, 1, pp. 9–12",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Historia urbana",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "pensando-la-historia-urbana",
+      "title": "Pensando la Historia Urbana",
+      "year": 2000,
+      "type": "Capítulos",
+      "publisher": "En La ciudad y las ciencias sociales. CEJA / IDCT",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Historia urbana",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "de-pueblo-de-indios-a-ciudad-notas-sobre-el-desarrollo-urbano-de-soacha",
+      "title": "De pueblo de indios a ciudad. Notas sobre el desarrollo urbano de Soacha",
+      "year": 2000,
+      "type": "Capítulos",
+      "publisher": "En Soacha, 400 años. Alcaldía de Soacha",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Historia urbana",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "la-ciudad-observada-agustin-codazzi-en-bogota-18491858",
+      "title": "La ciudad observada. Agustín Codazzi en Bogotá, 1849–1858",
+      "year": 2003,
+      "type": "Capítulos",
+      "publisher": "En Geografía física y política de la Confederación Granadina, vol. II, pp. 63–82",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "la-parroquia-y-el-barrio-en-la-historia-de-bogota",
+      "title": "La parroquia y el barrio en la historia de Bogotá",
+      "year": 2003,
+      "type": "Artículos",
+      "publisher": "Textos. Documentos de Historia y Teoría, 9, pp. 47–85. Universidad Nacional de Colombia",
+      "role": "Colaboración",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "que-tan-vieja-es-bogota",
+      "title": "Qué tan vieja es Bogotá",
+      "year": 2005,
+      "type": "Artículos",
+      "publisher": "La Rueda, 3, pp. 16–23",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "ciudad-y-territorio",
+      "title": "Ciudad y Territorio",
+      "year": 2006,
+      "type": "Capítulos",
+      "publisher": "En Historia y sociedad en Cundinamarca. ESAP, pp. 37–45",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "bogota-18101819-urbs-y-civitas-en-una-epoca-de-crisis",
+      "title": "Bogotá 1810–1819. Urbs y Civitas en una época de crisis",
+      "year": 2006,
+      "type": "Artículos",
+      "publisher": "Boletín de Historia y Antigüedades, 93 (835), pp. 885–912",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "cuando-la-candelaria-era-bogota-un-recorrido-por-el-sector-en-el-siglo-xviii",
+      "title": "Cuando La Candelaria era Bogotá: un recorrido por el sector en el siglo XVIII",
+      "year": 2007,
+      "type": "Capítulos",
+      "publisher": "Cátedra abierta de localidades: La Candelaria. Cámara de Comercio de Bogotá, pp. 9–32",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "santafe-de-ciudad-fundada-a-ciudad-construida",
+      "title": "Santafé. De ciudad fundada a ciudad construida",
+      "year": 2008,
+      "type": "Capítulos",
+      "publisher": "En Urbanismo y vida urbana en Iberoamérica colonial. Archivo de Bogotá, pp. 193–226",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "miguel-samper-agudelo-18251899",
+      "title": "Miguel Samper Agudelo (1825–1899)",
+      "year": 2008,
+      "type": "Capítulos",
+      "publisher": "En Pensamiento colombiano del siglo XX, vol. 2. Javeriana, pp. 299–321",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "la-ciudad-barroca-y-el-reformismo-ilustrado-bogota-17741816",
+      "title": "La ciudad barroca y el reformismo ilustrado. Bogotá, 1774–1816",
+      "year": 2009,
+      "type": "Capítulos",
+      "publisher": "En Ilustración en el mundo hispánico. Tlaxcala / Universidad Iberoamericana, pp. 431–452",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "el-arbol-de-la-plaza",
+      "title": "El árbol de la plaza",
+      "year": 2009,
+      "type": "Capítulos",
+      "publisher": "En Te cuento la Independencia. Ministerio de Educación, pp. 75–81",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "1810-el-umbral-a-la-republica",
+      "title": "1810: el umbral a la República",
+      "year": 2010,
+      "type": "Capítulos",
+      "publisher": "En Colombias, 200 años. Museo de Antioquia, pp. 27–34",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "el-idioma-de-la-nacion-la-experiencia-decimononica-colombiana",
+      "title": "El idioma de la nación. La experiencia decimonónica colombiana",
+      "year": 2010,
+      "type": "Artículos",
+      "publisher": "Ínsula, 65 (762), pp. 16–20",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "el-nacimiento-de-un-orden-territorial-poblamiento-y-territorio-en-colombia-18101910",
+      "title": "El nacimiento de un orden territorial. Poblamiento y territorio en Colombia, 1810–1910",
+      "year": 2010,
+      "type": "Capítulos",
+      "publisher": "En Colombia. Preguntas y respuestas sobre su pasado y su presente. Universidad de los Andes, pp. 171–190",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "las-guerras-civiles-en-bogota",
+      "title": "Las guerras civiles en Bogotá",
+      "year": 2010,
+      "type": "Capítulos",
+      "publisher": "En Bogotá y el Ejército Nacional en el Bicentenario. Fotomuseo, pp. 208–223",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "pontificia-universidad-javeriana-una-historia-19241978",
+      "title": "Pontificia Universidad Javeriana. Una historia, 1924–1978",
+      "year": 2010,
+      "type": "Capítulos",
+      "publisher": "En Pontificia Universidad Javeriana, 80 años, pp. 67–154",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "la-ciudad-capital-espacio-urbano-nomenclatura-y-monumentalidad-bogota-18101910",
+      "title": "La ciudad capital, espacio urbano, nomenclatura y monumentalidad. Bogotá, 1810–1910",
+      "year": 2010,
+      "type": "Capítulos",
+      "publisher": "En Del mundo hispánico a la consolidación de las naciones. Tlaxcala, pp. 461–492",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "en-busca-de-la-intimidad-bogota-18801910",
+      "title": "En busca de la intimidad (Bogotá, 1880–1910)",
+      "year": 2011,
+      "type": "Capítulos",
+      "publisher": "En Historia de la vida privada en Colombia, tomo II. Taurus, pp. 1–45",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "santafe-en-el-siglo-xviii-aires-de-transformacion",
+      "title": "Santafé en el siglo XVIII. Aires de transformación",
+      "year": 2012,
+      "type": "Capítulos",
+      "publisher": "En Fray Domingo de Petrés. IDPC, pp. 29–37",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "la-creacion-del-virreinato-de-la-nueva-granada-y-su-capital-santafe-de-bogota",
+      "title": "La creación del Virreinato de la Nueva Granada y su capital, Santafé de Bogotá",
+      "year": 2012,
+      "type": "Artículos",
+      "publisher": "De Memoria, 1, pp. 10–13",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "los-tiempos-de-la-ciudad",
+      "title": "Los tiempos de la ciudad",
+      "year": 2012,
+      "type": "Capítulos",
+      "publisher": "En Memorias del patrimonio. Universidad de Boyacá, pp. 118–121",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Historia urbana",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "febrero-de-1933",
+      "title": "Febrero de 1933",
+      "year": 2013,
+      "type": "Artículos",
+      "publisher": "Revista Javeriana, 149 (794), pp. 14–22",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "la-ciudad-recordada-notas-de-josefa-acevedo-y-gomez-sobre-santafe-en-1810",
+      "title": "La ciudad recordada. Notas de Josefa Acevedo y Gómez sobre Santafé en 1810",
+      "year": 2013,
+      "type": "Artículos",
+      "publisher": "De Memoria, 3, pp. 45–48",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "el-historico-archivo-javeriano",
+      "title": "El histórico archivo Javeriano",
+      "year": 2013,
+      "type": "Artículos",
+      "publisher": "De Memoria, 5, pp. 39–43",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Historia e historiografía",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "espana-en-colombia-rastros-de-una-aneja-amistad",
+      "title": "España en Colombia. Rastros de una añeja amistad",
+      "year": 2015,
+      "type": "Capítulos",
+      "publisher": "En Colombia: un país en transformación acelerada. Nebrija / McGraw-Hill, pp. 179–183",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "la-prision-historiografica-un-concepto-relevante-de-german-colmenares",
+      "title": "La prisión historiográfica. Un concepto relevante de Germán Colmenares",
+      "year": 2015,
+      "type": "Capítulos",
+      "publisher": "En Una obra para la historia: homenaje a Germán Colmenares. Universidad del Rosario, pp. 1–13",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Historia e historiografía",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "bogota-1966",
+      "title": "Bogotá, 1966",
+      "year": 2015,
+      "type": "Capítulos",
+      "publisher": "En Si las paredes hablaran: 50 años de música en la Biblioteca Luis Ángel Arango. Banco de la República",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "bogota-1948-de-la-hiperbole-al-mito",
+      "title": "Bogotá 1948. De la hipérbole al mito",
+      "year": 2016,
+      "type": "Capítulos",
+      "publisher": "En Ciudades sudamericanas como arenas culturales. Siglo XXI",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "entre-celebracion-y-celebracion",
+      "title": "Entre celebración y celebración",
+      "year": 1989,
+      "type": "Reseñas",
+      "publisher": "Boletín Cultural y Bibliográfico, 24 (20), pp. 75–77",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Bogotá",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "un-nuevo-enfoque-de-las-independencias",
+      "title": "Un nuevo enfoque de las independencias",
+      "year": 2010,
+      "type": "Reseñas",
+      "publisher": "Revista de Occidente, 354, pp. 150–155",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "América Latina",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "el-hombre-y-su-huella-historia-de-colombia-ii",
+      "title": "El Hombre y su huella. Historia de Colombia II",
+      "year": 1979,
+      "type": "Material educativo",
+      "publisher": "Voluntad",
+      "role": "Colaboración",
+      "isbn": "",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "educacion-para-la-democracia-modulo-de-bachillerato-por-radio",
+      "title": "Educación para la Democracia. Módulo de Bachillerato por Radio",
+      "year": 1988,
+      "type": "Material educativo",
+      "publisher": "Inravisión / Universidad Javeriana",
+      "role": "Colaboración",
+      "isbn": "",
+      "topic": "Colombia",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "civilizacion-8",
+      "title": "Civilización 8",
+      "year": 1991,
+      "type": "Material educativo",
+      "publisher": "Norma. Unidades 1, 4 y 5; revisión de 1994",
+      "role": "Colaboración",
+      "isbn": "",
+      "topic": "Historia e historiografía",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "civilizacion-9",
+      "title": "Civilización 9",
+      "year": 1991,
+      "type": "Material educativo",
+      "publisher": "Norma. Unidades 1, 3 y 5; revisión de 1994",
+      "role": "Colaboración",
+      "isbn": "",
+      "topic": "Historia e historiografía",
+      "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
+      "description": "",
+      "cover": "",
+      "editions": ""
+    },
+    {
+      "id": "de-ciudades-villas-pueblos-y-parroquias",
+      "title": "De ciudades, villas, pueblos y parroquias",
+      "year": 2017,
+      "type": "Reseñas",
+      "publisher": "Boletín Cultural y Bibliográfico, 51 (92), pp. 177–178",
+      "role": "Autor",
+      "isbn": "",
+      "topic": "Colombia",
+      "source": "https://publicaciones.banrepcultural.org/index.php/boletin_cultural/article/view/7980",
+      "description": "Reseña del libro Poblamiento y economía, de Guerrero, Pabón y Ferreira. Se cataloga como reseña bibliográfica, no como un libro de autoría de Germán Mejía Pavony.",
+      "cover": "",
+      "editions": ""
+    }
+  ],
+  "episodes": [
+    {
+      "id": "Pnoi9QvzrF8",
+      "video": "Pnoi9QvzrF8",
+      "title": "Episodio 1 - \"En los tiempos del ruido\" 1687",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "mRjdh8gpwmY",
+      "video": "mRjdh8gpwmY",
+      "title": "Episodio 70 - La imprenta cambió la historia",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "RHn0HCUwL8s",
+      "video": "RHn0HCUwL8s",
+      "title": "Episodio 69 - Historia del teatro",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "36DeNY7yj7Y",
+      "video": "36DeNY7yj7Y",
+      "title": "Episodio 68 - Las cofradías",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "fzgBh8GO5S0",
+      "video": "fzgBh8GO5S0",
+      "title": "Episodio 67 - El primer periódico del Virreinato de la Nueva Granada",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "kzdnKRJGsso",
+      "video": "kzdnKRJGsso",
+      "title": "Episodio 64 - La bruja de Bogotá",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "XIsrN2gLC7I",
+      "video": "XIsrN2gLC7I",
+      "title": "Episodio 65 - Las reliquias que se trajeron desde Europa",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "k_1FrGdCF0E",
+      "video": "k_1FrGdCF0E",
+      "title": "Episodio 64 - Terremoto de 1785 | Santafé de Bogotá",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "alyRl5oypc4",
+      "video": "alyRl5oypc4",
+      "title": "Episodio 63 - Cartas de emigrantes a Las Indias",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "l2A3bUBK4N8",
+      "video": "l2A3bUBK4N8",
+      "title": "Episodio 62 - El Orinoco Ilustrado",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "QXIHTqNQoJ8",
+      "video": "QXIHTqNQoJ8",
+      "title": "Episodio 61 - La rebelión comunera",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "mG9U4glq4uM",
+      "video": "mG9U4glq4uM",
+      "title": "Episodio 60: Vestimenta en el siglo 16",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "aXN4gXBR7Es",
+      "video": "aXN4gXBR7Es",
+      "title": "Episodio 59:  Conventos dominicos",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "hvE7GjUhkJg",
+      "video": "hvE7GjUhkJg",
+      "title": "Episodio 58 - La inquisición en América",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "UnWiy9w6C44",
+      "video": "UnWiy9w6C44",
+      "title": "Episodio 57: El congregador de pueblos",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "n1tt-GO8n0A",
+      "video": "n1tt-GO8n0A",
+      "title": "Episodio 56 - Origen de Bucaramanga",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "ZKjtetUrFmE",
+      "video": "ZKjtetUrFmE",
+      "title": "Episodio 55: La Gaitana: ¿heroína indígena o figura inventada?",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "aX1WzCbnvQE",
+      "video": "aX1WzCbnvQE",
+      "title": "Episodio 54: Blas de Lezo y la Batalla de Cartagena en 1741",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "NIVco-mZwIE",
+      "video": "NIVco-mZwIE",
+      "title": "Episodio 53: Juegos de azar y festividades religiosas en la época virreinal",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "jvzjRZ4yLsc",
+      "video": "jvzjRZ4yLsc",
+      "title": "Episodio 52: ¿Eran caníbales los Pijaos? ¿Por qué se resistían a los españoles?",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "0oHtSWAjLCk",
+      "video": "0oHtSWAjLCk",
+      "title": "Episodio 51 - Los censos de población",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "Clh77jidNHE",
+      "video": "Clh77jidNHE",
+      "title": "Episodio 50 - Juan el \"indio\" de Engativá",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "MhdI1LXjWLA",
+      "video": "MhdI1LXjWLA",
+      "title": "Episodio 49 - El canal del Dique",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "Jb5PTsMyraY",
+      "video": "Jb5PTsMyraY",
+      "title": "Episodio 48 - La peste de \"Santos Gil\"",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "UWN0eGvJNOY",
+      "video": "UWN0eGvJNOY",
+      "title": "Episodio 47 - Los propios del cabildo",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "9OIcUoqVkNA",
+      "video": "9OIcUoqVkNA",
+      "title": "Episodio 46 - La Expedición Botánica",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "yt9_WjDm2pc",
+      "video": "yt9_WjDm2pc",
+      "title": "Episodio 45 - El \"Siglo de oro\" Español",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "JxcNMgGz-ZE",
+      "video": "JxcNMgGz-ZE",
+      "title": "Episodio 44 - Los resguardos indígenas y los oidores",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "02Q-YoKy3uM",
+      "video": "02Q-YoKy3uM",
+      "title": "Episodio 43 - El taller de artesano",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "HoVHIgTaMRU",
+      "video": "HoVHIgTaMRU",
+      "title": "Episodio 42 - Historia de la moneda del imperio Español",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "Cqi7MHkWUfI",
+      "video": "Cqi7MHkWUfI",
+      "title": "Episodio 41 - Desde Tunja, hasta Mérida",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "U46i1y7amTE",
+      "video": "U46i1y7amTE",
+      "title": "Episodio 40 - ¿Cómo funcionaban los conventos de monjas en la Nueva Granada?",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "fh7vLtq8qPQ",
+      "video": "fh7vLtq8qPQ",
+      "title": "Episodio 39 - ¿Cómo se construyeron las primeras viviendas de América?",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "8ZpsS9no1y0",
+      "video": "8ZpsS9no1y0",
+      "title": "Episodio 38 - Evangelizar el Nuevo Mundo | ¿Leyenda negra o leyenda rosa?",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "DqDQ13vKKrI",
+      "video": "DqDQ13vKKrI",
+      "title": "Episodio 37 - La industria de trigo y su historia",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "ZBT6Y9okiDU",
+      "video": "ZBT6Y9okiDU",
+      "title": "Episodio 36 - Pulperías: origen de las tiendas de barrio",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "cCz8h_tQlCs",
+      "video": "cCz8h_tQlCs",
+      "title": "Episodio 35 - Historia de Popayán",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "PUoWTfmG2jY",
+      "video": "PUoWTfmG2jY",
+      "title": "Episodio 34 - Bogas, champanes y comercio en el río grande de la Magdalena",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "IolWeE0VYMw",
+      "video": "IolWeE0VYMw",
+      "title": "Episodio 33 - El mito de \"El Dorado\"",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "2wihXVW9xBA",
+      "video": "2wihXVW9xBA",
+      "title": "Episodio 32 - Cartago viejo y Pereira",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "z8ho2csY7PQ",
+      "video": "z8ho2csY7PQ",
+      "title": "Episodio 31 - Ingenieros militares y obras públicas",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "hn674oCccmo",
+      "video": "hn674oCccmo",
+      "title": "Episodio 30 - ¿Cómo circulaban cartas, órdenes y noticias en el Imperio Español?",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "x5ZBmVLNIsU",
+      "video": "x5ZBmVLNIsU",
+      "title": "Episodio 29 - ¿Cómo se formaron los ejércitos en la América Española?",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "4LpwymqOJBE",
+      "video": "4LpwymqOJBE",
+      "title": "Episodio 28 - El Consulado de Cartagena",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "C_5AgvIS8pg",
+      "video": "C_5AgvIS8pg",
+      "title": "Episodio 27 - Las boticas eran las farmacias de la época",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "nQNZe97AlgM",
+      "video": "nQNZe97AlgM",
+      "title": "Episodio 26 - ¿Qué acciones eran condenables en la actual Colombia? La vergüenza como castigo público e Inquisición",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "SHN5Hb9jRM0",
+      "video": "SHN5Hb9jRM0",
+      "title": "Episodio 25 - ¿En qué año se construyó el primer hospital de Colombia?",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "Kdrrv2-4Fb0",
+      "video": "Kdrrv2-4Fb0",
+      "title": "Episodio 24 - Santa Fé de Antioquia",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "uG1ZPJNsRzA",
+      "video": "uG1ZPJNsRzA",
+      "title": "Episodio 23 - Sebastián de Belalcázar, el fundador analfabeto",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "9PISXGd7S7s",
+      "video": "9PISXGd7S7s",
+      "title": "Episodio 22 - Los caminos reales",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "7jZcHxLI-Cw",
+      "video": "7jZcHxLI-Cw",
+      "title": "Episodio 21 - La historia de los piratas en el Caribe",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "62CYBUq72f0",
+      "video": "62CYBUq72f0",
+      "title": "Episodio 20 - Cartagena de Indias: entre murallas, epidemias y piratas, una ciudad que resistió siglos",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "mSJyXb05zEI",
+      "video": "mSJyXb05zEI",
+      "title": "Episodio 19 - Palenques, rochelas y cimarrones",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "AQGSWtAvnHU",
+      "video": "AQGSWtAvnHU",
+      "title": "Episodio 18 - La otra historia de la esclavitud",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "LkmyuM4OLg4",
+      "video": "LkmyuM4OLg4",
+      "title": "Episodio 17 - El mestizaje y sus matices",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "NS-oa5jUuGg",
+      "video": "NS-oa5jUuGg",
+      "title": "Episodio 16 - El oro del Nuevo Reino de Granada",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "tldsBJF5f0s",
+      "video": "tldsBJF5f0s",
+      "title": "Episodio 15 - Límites y fronteras en el Nuevo Reino de Granada",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "J4OJ-tAv2Tk",
+      "video": "J4OJ-tAv2Tk",
+      "title": "Episodio 14 - Rodrigo de Bastidas fundó Santa Marta... ¿pero en qué año realmente 1525 o 1526?",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "ryEPGmb020w",
+      "video": "ryEPGmb020w",
+      "title": "Episodio 13 - Impuestos y mantenimiento",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "CVFsnHDg0SA",
+      "video": "CVFsnHDg0SA",
+      "title": "Episodio 12 - Pedro de Herdia, el fundador sin nariz",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "ADR9odTmiZg",
+      "video": "ADR9odTmiZg",
+      "title": "Episodio 11 - ¿Por qué algunos recibían tierra y otros no en la América colonial?",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "pBbK6Tf5reE",
+      "video": "pBbK6Tf5reE",
+      "title": "Episodio 10 - El origen de la palabra vecino",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "xx8ho-PATHg",
+      "video": "xx8ho-PATHg",
+      "title": "Episodio 9 - ¿Cómo se organizó el poder de la Iglesia en la América colonial?",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "PKkUqgQTims",
+      "video": "PKkUqgQTims",
+      "title": "Episodio 8 - La verdadera historia de Gonzalo Jiménez de Quesada",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "_MPwVIPp6k0",
+      "video": "_MPwVIPp6k0",
+      "title": "Episodio 7 - La Real Audiencia",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "viCn_4SVWjs",
+      "video": "viCn_4SVWjs",
+      "title": "Episodio 6 - El Mar del Sur",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "MoIw3qM2INQ",
+      "video": "MoIw3qM2INQ",
+      "title": "Episodio 5 - Las Leyes de las Indias",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "vxaYszrc-lo",
+      "video": "vxaYszrc-lo",
+      "title": "Episodio 4 - Los 3 fundadores de Bogotá",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "3EOAVX9Cgio",
+      "video": "3EOAVX9Cgio",
+      "title": "Episodio 3 - ¿Cómo se financiaron la expediciones a América?",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    },
+    {
+      "id": "rALKljGfDtw",
+      "video": "rALKljGfDtw",
+      "title": "Episodio 2 - Santa María La Antigua del Darién",
+      "source": "https://javerianaestereo.com/tiempos-del-ruido"
+    }
+  ]
+}
