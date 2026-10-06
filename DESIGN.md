@@ -117,3 +117,6 @@ Video media and the contact destination remain pending. Do not present a functio
 - Don't add explanatory paragraphs beneath the conference or book headings.
 - Don't imply that pending video or contact delivery works.
 - Don't repeat the geographic exploration section.
+
+## Approved fidelity correction
+Hero now uses hero-approved.png, a generated dusk recreation from approved comp, identified in credits. Homepage books use transparent three-volume sprite book-dummies.png with provisional cream, terracotta and green jackets; original covers remain in dialogs. Sprite uses intrinsic 2:3 third ratio, not stretched. Podcast title contains a real whitespace before responsive line break.
