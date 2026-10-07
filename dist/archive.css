@@ -5,3 +5,10 @@
 .episode-list article{grid-template-columns:50px 1fr 175px}.episode-list article>a{font-size:14px;color:#97360f;text-decoration:underline;text-underline-offset:4px}@media(max-width:720px){.episode-list article{grid-template-columns:1fr}}
 
 .press-filters{position:static;display:flex;flex-wrap:wrap;gap:12px 22px;padding:24px 0;border-block:1px solid #ded2bf;background:none;box-shadow:none}.press-filters a{font-size:14px;padding:6px 0}.press-filters a[aria-current=page]{color:#97360f;text-decoration:underline;text-underline-offset:6px}.press-references{max-width:920px}.press-references article{padding:30px 0;border-bottom:1px solid #ded2bf}.press-references h2{font-size:36px;max-width:850px}.press-references article>p:not(.record-meta){max-width:75ch}@media(max-width:720px){.press-filters{display:flex!important;flex-direction:row!important}.press-references h2{font-size:29px}}
+/* A continuous editorial banner blends portrait and biography. */
+.bio-intro{position:relative;isolation:isolate;display:block;overflow:hidden;background:#f3eadb;min-height:510px;padding:55px 48px;margin-inline:-24px}
+.bio-intro>div{position:relative;z-index:2;width:55%;max-width:650px}
+.bio-intro>img{position:absolute;right:0;top:0;width:62%;height:100%;object-fit:cover;object-position:42% center;z-index:0;opacity:.9}
+.bio-intro:after{content:'';position:absolute;inset:0;z-index:1;background:linear-gradient(90deg,#f3eadb 0%,#f3eadb 39%,rgba(243,234,219,.93) 47%,rgba(243,234,219,.3) 64%,rgba(243,234,219,.02) 82%);pointer-events:none}
+.bio-intro p{max-width:48ch}.bio-intro .page-heading h1{font-size:clamp(44px,4.3vw,67px)}
+@media(max-width:720px){.bio-intro{margin-inline:-12px;padding:285px 24px 30px;min-height:0}.bio-intro>div{width:100%}.bio-intro>img{width:100%;height:360px;object-position:center 30%}.bio-intro:after{background:linear-gradient(180deg,rgba(243,234,219,.06),rgba(243,234,219,.12) 170px,#f3eadb 330px)}.bio-intro .page-heading h1{font-size:43px}}
