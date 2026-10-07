@@ -16,3 +16,8 @@
 @media(max-width:720px){.book-gallery{gap:25px;padding:12px 5px}.book-object{width:86%}.book-one .book-object{width:94%}.book-gallery .book>span{margin-top:20px}.book-object:before{width:9px;right:-8px}}
 
 .portrait img{clip-path:none;margin-bottom:0;aspect-ratio:auto;height:auto}
+
+/* A single, shared angle keeps the three volumes visually coherent. */
+.book-gallery .book-object{transform:perspective(1100px) rotateY(13deg) rotateZ(-2deg)}
+.book-object:before{left:-12px;right:auto;transform:skewY(15deg);transform-origin:right;border-left:1px solid #bcb09a;border-right:0}
+@media(max-width:720px){.book-object:before{left:-8px;right:auto}}
