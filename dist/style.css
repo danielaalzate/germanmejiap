@@ -37,3 +37,9 @@
 @media(max-width:720px){.book-gallery .book-two .book-object:before,.book-gallery .book-three .book-object:before{left:-12px;width:14px}}
 
 .hero>img{z-index:-4}.hero-video{z-index:-3}.hero.video-ready>img{visibility:hidden}.hero-video-toggle{display:none!important}
+/* Shared bottom baseline for the three home volumes. */
+.book-gallery{align-items:end}
+.book-gallery .book{margin-top:0;align-self:end}
+.book-gallery .book>span{display:none}
+.book-gallery .book-object{margin-bottom:0}
+@media(max-width:720px){.book-gallery{grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}.book-gallery .book-three{width:auto}.book-gallery .book-object,.book-gallery .book-one .book-object{width:94%}}
