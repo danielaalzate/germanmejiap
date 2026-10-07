@@ -1,0 +1,38 @@
+[
+  {
+    "old": "hero-approved.png",
+    "next": "hero-fast.webp",
+    "before": 2247906,
+    "after": 140994
+  },
+  {
+    "old": "german-restaurado.png",
+    "next": "german-fast.webp",
+    "before": 2007605,
+    "after": 49134
+  },
+  {
+    "old": "radio.jpg",
+    "next": "radio-fast.webp",
+    "before": 3870144,
+    "after": 407380
+  },
+  {
+    "old": "plaza-bolivar-bogota.jpg",
+    "next": "plaza-fast.webp",
+    "before": 3161744,
+    "after": 54404
+  },
+  {
+    "old": "illustrations.png",
+    "next": "illustrations-fast.webp",
+    "before": 1742190,
+    "after": 20508
+  },
+  {
+    "old": "los-anos-del-cambio-original.webp",
+    "next": "los-anos-del-cambio-fast.webp",
+    "before": 663414,
+    "after": 59372
+  }
+]
