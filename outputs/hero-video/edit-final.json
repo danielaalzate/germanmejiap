@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "outputs/hero-video/clips/01.mp4",
+    "outputs/hero-video/clips-timelapse/02.mp4",
+    "outputs/hero-video/clips-timelapse/03.mp4",
+    "outputs/hero-video/clips-timelapse/04.mp4"
+  ],
+  "duration": 11.9,
+  "resolution": "1366x768",
+  "bitrate": 590000,
+  "size": 869066,
+  "filters": [
+    "[0:v]scale=1366:768:force_original_aspect_ratio=increase,crop=1366:768,setpts=0.55*(PTS-STARTPTS),fps=24,trim=duration=3.2,setpts=PTS-STARTPTS,format=yuv420p,settb=AVTB[v0]",
+    "[1:v]scale=1366:768:force_original_aspect_ratio=increase,crop=1366:768,setpts=0.55*(PTS-STARTPTS),fps=24,trim=duration=3.2,setpts=PTS-STARTPTS,format=yuv420p,settb=AVTB[v1]",
+    "[2:v]scale=1366:768:force_original_aspect_ratio=increase,crop=1366:768,setpts=0.55*(PTS-STARTPTS),fps=24,trim=duration=3.2,setpts=PTS-STARTPTS,format=yuv420p,settb=AVTB[v2]",
+    "[3:v]scale=1366:768:force_original_aspect_ratio=increase,crop=1366:768,setpts=0.55*(PTS-STARTPTS),fps=24,trim=duration=3.2,setpts=PTS-STARTPTS,format=yuv420p,settb=AVTB[v3]",
+    "[v0][v1]xfade=transition=fade:duration=0.3:offset=2.9[x1]",
+    "[x1][v2]xfade=transition=fade:duration=0.3:offset=5.8[x2]",
+    "[x2][v3]xfade=transition=fade:duration=0.3:offset=8.7[out]"
+  ]
+}
