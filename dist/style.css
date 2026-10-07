@@ -43,3 +43,4 @@
 .book-gallery .book>span{display:none}
 .book-gallery .book-object{margin-bottom:0}
 @media(max-width:720px){.book-gallery{grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}.book-gallery .book-three{width:auto}.book-gallery .book-object,.book-gallery .book-one .book-object{width:94%}}
+.book-gallery .book-two .book-object,.book-gallery .book-three .book-object{translate:0 -3%}
