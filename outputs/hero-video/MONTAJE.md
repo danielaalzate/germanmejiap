@@ -21,3 +21,7 @@ Mejorar nitidez y resolución con la mínima intervención disponible. Preservar
 Use the supplied image as the exact visual source. A very subtle, slow camera push-in only, maximum approximately 2 percent. Preserve all architecture, people, vehicles, signs, geometry, photographic texture and original colors exactly. The scene itself remains still. No object animation, no new elements, no reconstruction, no morphing, no colorization, no atmospheric effects, no perspective warping. Gentle archival documentary presentation, stable frame, 16:9. Crop rather than extend the image.
 
 Validar el modelo, las duraciones y la resolución realmente disponibles antes de generar. Revisar cada clip contra su original: una instrucción al modelo no garantiza fidelidad geométrica. Rechazar los clips que inventen o deformen detalles.
+
+
+## Entrega completada
+Video final: bogota-hero-768p.mp4, 1366×768, 24 fps, 10 s, sin audio. Generados cinco clips en Magnific con Hailuo 2.3 en modalidad ilimitada; se descartó la animación de apertura por cambios de iluminación, conservando la imagen aprobada con zoom determinista. Fragmentos históricos de 2.2 s con fundidos de 0.25 s. Hero con pausa y alternativa estática para movimiento reducido.
