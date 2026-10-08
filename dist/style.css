@@ -64,3 +64,5 @@
  .podcast-content{width:100%;margin:0}
  footer>div{flex-wrap:wrap}
 }
+
+@media(min-width:721px){.podcast{background:#000}.podcast>img{width:90%;right:auto;object-position:56% 58%}.podcast-shade{background:linear-gradient(90deg,transparent 0%,rgba(0,0,0,.05) 30%,rgba(0,0,0,.3) 47%,rgba(0,0,0,.8) 67%,#000 90%,#000 100%)}}
