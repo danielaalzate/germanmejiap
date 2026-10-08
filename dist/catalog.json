@@ -1711,6 +1711,23 @@
       "id": "MS15b3VKGuw",
       "series": "pais",
       "order": 37
+    },
+    {
+      "id": "-Y01YE5aeDY",
+      "video": "-Y01YE5aeDY",
+      "title": "¿Las Farotas nacieron como una danza de resistencia indígena contra los españoles?",
+      "source": "https://www.youtube.com/watch?v=-Y01YE5aeDY&list=PLY4ppp_HGOsE",
+      "series": "capsulas",
+      "order": 1
+    },
+    {
+      "id": "txEO8wbkzks",
+      "video": "txEO8wbkzks",
+      "title": "Poner fin a la dictadura de Rojas Pinilla | Origen y consecuencias del Frente Nacional en Colombia",
+      "source": "https://www.youtube.com/watch?v=txEO8wbkzks&list=PLY4ppp_HGOsE",
+      "series": "capsulas",
+      "order": 2,
+      "premiere": "2026-10-09"
     }
   ]
 }
