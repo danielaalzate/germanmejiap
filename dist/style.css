@@ -68,3 +68,12 @@
 @media(min-width:721px){.podcast{background:#000}.podcast>img{width:90%;right:auto;object-position:56% 58%}.podcast-shade{background:linear-gradient(90deg,transparent 0%,rgba(0,0,0,.05) 30%,rgba(0,0,0,.3) 47%,rgba(0,0,0,.8) 67%,#000 90%,#000 100%)}}
 
 .trajectory-banner{position:relative;isolation:isolate;display:block;min-height:480px;margin-block:65px;padding:70px 48px;background:#fff8ed}.trajectory-banner .portrait{position:absolute;inset:0;margin:0;overflow:visible;z-index:-2}.trajectory-banner .portrait img{width:100%;height:100%;aspect-ratio:auto;object-fit:cover;object-position:center;clip-path:none;margin:0}.trajectory-banner:after{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,transparent 0%,rgba(255,248,237,.04) 30%,rgba(255,248,237,.78) 52%,rgba(255,248,237,.96) 68%,#fff8ed 100%)}.trajectory-banner>div{width:49%;margin-left:auto}.trajectory-banner .portrait figcaption{position:absolute;top:calc(100% + 10px);left:0;font-size:11px;color:#57564f;line-height:1.5}.image-credit{font-size:11px;color:#57564f;margin:12px 0 30px}@media(max-width:720px){.trajectory-banner{min-height:610px;padding:320px 22px 35px;margin-block:35px 60px}.trajectory-banner>div{width:100%;margin:0}.trajectory-banner .portrait img{object-position:32% top}.trajectory-banner:after{background:linear-gradient(180deg,transparent 0%,rgba(255,248,237,.05) 27%,rgba(255,248,237,.9) 53%,#fff8ed 68%)}.trajectory-banner h2{font-size:36px}.trajectory-banner .lead{font-size:23px}}
+
+/* Mobile portrait and copy occupy separate areas; only the lower image edge fades. */
+@media(max-width:720px){
+.trajectory-banner{--mobile-portrait-height:clamp(260px,80vw,380px);min-height:0;padding:calc(var(--mobile-portrait-height) + 20px) 22px 30px;margin-bottom:90px}
+.trajectory-banner .portrait img{height:var(--mobile-portrait-height);object-fit:cover;object-position:35% top;opacity:1}
+.trajectory-banner:after{bottom:auto;height:var(--mobile-portrait-height);background:linear-gradient(180deg,transparent 0%,transparent 84%,#fff8ed 100%)}
+.trajectory-banner>div{position:relative;width:100%;margin:0}
+.trajectory-banner .portrait figcaption{top:calc(100% + 12px)}
+}
