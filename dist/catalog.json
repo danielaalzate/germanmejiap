@@ -12,7 +12,8 @@
       "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
       "description": "Bogotá entre 1820 y 1910: una investigación sobre la transformación de la ciudad durante el siglo XIX. Un punto de entrada a la historia urbana de la capital.",
       "cover": "los-anos-del-cambio-fast.webp",
-      "editions": "Primera edición: 1999. Segunda edición: CEJA / ICANH, 2000; ISBN 9586833089."
+      "editions": "Primera edición: 1999. Segunda edición: CEJA / ICANH, 2000; ISBN 9586833089.",
+      "buyUrl": "https://www.amazon.com/-/es/dp/B003ZNIOWA"
     },
     {
       "id": "la-ciudad-de-los-conquistadores-historia-de-bogota-15361604",
@@ -41,7 +42,8 @@
       "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
       "description": "Una mirada a la historia de las ciudades latinoamericanas. Forma parte de la colección América Latina en la Historia Contemporánea, serie Recorridos.",
       "cover": "la-aventura-urbana-original.webp",
-      "editions": ""
+      "editions": "",
+      "buyUrl": "https://www.amazon.com/-/es/dp/8430601953"
     },
     {
       "id": "historia-concisa-de-colombia",
@@ -54,8 +56,18 @@
       "topic": "Colombia",
       "source": "https://www.javeriana.edu.co/editorial/w/historia-concisa-colombia",
       "description": "Una historia de Colombia escrita junto con Michael J. LaRosa. El catálogo reúne sus ediciones bajo una misma obra para facilitar la consulta.",
-      "cover": "",
-      "editions": "Edición de 2013: Historia concisa de Colombia (1810–2013), traducción de Matías Godoy. Edición de Debate: 2023. Cada edición puede presentar actualizaciones y una paginación diferente."
+      "cover": "historia-concisa-de-colombia-editorial.webp",
+      "editions": "Edición de 2013: Historia concisa de Colombia (1810–2013), traducción de Matías Godoy. Edición de Debate: 2023. Cada edición puede presentar actualizaciones y una paginación diferente. Tercera edición actualizada: Historia concisa de Colombia (1810–2022), Debate, ISBN 9786287669079.",
+      "coverSource": "https://www.tornamesa.co/libro/historia-concisa-de-colombia-1810-2022_110337",
+      "coverNote": "Carátula original de la tercera edición, 1810–2022 (Debate).",
+      "buyUrl": "https://www.amazon.com/-/es/dp/9587166809",
+      "buyLabel": "Comprar en Amazon · edición 1810–2013",
+      "purchaseLinks": [
+        {
+          "label": "Comprar en Tornamesa · edición 1810–2022",
+          "url": "https://www.tornamesa.co/libro/historia-concisa-de-colombia-1810-2022_110337"
+        }
+      ]
     },
     {
       "id": "del-canon-a-la-memoria-el-pasado-como-historia-de-colombia",
@@ -82,8 +94,10 @@
       "topic": "América Latina",
       "source": "https://repositorio.flacsoandes.edu.ec/bitstream/10469/20278/2/LFLACSO-Martinez-COOR-152336-PUBCOM.pdf",
       "description": "Volumen colectivo coordinado con Gerardo Martínez Delgado sobre la historiografía urbana latinoamericana. Reúne el trabajo de distintos investigadores; la participación de Germán corresponde a la coordinación de la obra.",
-      "cover": "",
-      "editions": ""
+      "cover": "despues-de-la-heroica-fase-de-exploracion-la-historiografia-urbana-en-america-latina-editorial.webp",
+      "editions": "",
+      "buyUrl": "https://www.amazon.com/-/es/dp/B0BRJCXF7M",
+      "coverSource": "https://ulibros.com/index.php/despues-de-la-heroica-fase-de-exploracion-5gpbi.html"
     },
     {
       "id": "entre-la-libertad-y-el-orden-una-historia-de-la-derecha-en-colombia",
@@ -96,9 +110,16 @@
       "topic": "Colombia",
       "source": "https://www.penguinlibros.com/co/tematicas/371834-libro-entre-la-libertad-y-el-orden-9786287669727",
       "description": "Una investigación sobre la historia de la derecha en Colombia a través de quince momentos, desde el siglo XIX hasta el XXI. Publicado por Debate en abril de 2025.",
-      "cover": "",
+      "cover": "entre-la-libertad-y-el-orden-una-historia-de-la-derecha-en-colombia-editorial.webp",
       "editions": "",
-      "buyUrl": "https://www.amazon.com/-/es/dp/B0F3CMRVP8"
+      "buyUrl": "https://www.amazon.com/-/es/dp/B0F3CMRVP8",
+      "coverSource": "https://www.penguinlibros.com/co/tematicas/371834-libro-entre-la-libertad-y-el-orden-9786287669727",
+      "purchaseLinks": [
+        {
+          "label": "Comprar en Tornamesa",
+          "url": "https://www.tornamesa.co/libro/entre-la-libertad-y-el-orden_121396"
+        }
+      ]
     },
     {
       "id": "proceso-seguido-al-general-santander-por-consecuencia-del-acontecimiento-de-la-noche-del-25-de-septiembre-de-1828-en-bogota",
@@ -139,8 +160,9 @@
       "topic": "Colombia",
       "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
       "description": "",
-      "cover": "",
-      "editions": ""
+      "cover": "colombia-en-el-siglo-xix-editorial.webp",
+      "editions": "",
+      "coverSource": "https://covers.openlibrary.org/b/isbn/9586147797-L.jpg"
     },
     {
       "id": "la-ciudad-y-las-ciencias-sociales-ensayos-y-aproximaciones",
@@ -167,8 +189,9 @@
       "topic": "América Latina",
       "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
       "description": "",
-      "cover": "",
-      "editions": ""
+      "cover": "the-united-states-discovers-panama-the-writings-of-soldiers-scholars-scientists-and-scoundrels-18501905-editorial.webp",
+      "editions": "",
+      "coverSource": "https://covers.openlibrary.org/b/isbn/0742527212-L.jpg"
     },
     {
       "id": "la-nueva-granada-colonial-seleccion-de-textos-historicos",
@@ -195,8 +218,9 @@
       "topic": "América Latina",
       "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
       "description": "",
-      "cover": "",
-      "editions": ""
+      "cover": "an-atlas-and-survey-of-latin-american-history-editorial.webp",
+      "editions": "",
+      "coverSource": "https://covers.openlibrary.org/b/isbn/0765615975-L.jpg"
     },
     {
       "id": "atlas-historico-de-bogota-cartografia-17912007",
@@ -209,8 +233,9 @@
       "topic": "Bogotá",
       "source": "https://javeriana.academia.edu/Germ%C3%A1nMej%C3%ADa/CurriculumVitae",
       "description": "",
-      "cover": "",
-      "editions": ""
+      "cover": "atlas-historico-de-bogota-cartografia-17912007-editorial.webp",
+      "editions": "",
+      "coverSource": "https://libreriasiglo.com/8553-atlas-historico-de-bogota-cartografia-1791-2007"
     },
     {
       "id": "colombia-a-concise-contemporary-history",
