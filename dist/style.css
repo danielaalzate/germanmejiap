@@ -44,3 +44,23 @@
 .book-gallery .book-object{margin-bottom:0}
 @media(max-width:720px){.book-gallery{grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}.book-gallery .book-three{width:auto}.book-gallery .book-object,.book-gallery .book-one .book-object{width:94%}}
 .book-gallery .book-two .book-object,.book-gallery .book-three .book-object{translate:0 -3%}
+/* Mobile shelf: one row, consistent scale and shared baseline. */
+@media(max-width:720px){
+ .book-gallery{grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;padding:12px 0 20px;margin:30px 0 25px;align-items:end}
+ .book-gallery .book{grid-column:auto;width:100%;margin:0;min-width:0;display:flex;justify-content:center;align-items:flex-end;height:clamp(140px,42vw,245px)}
+ .book-gallery .book-object{height:clamp(125px,38vw,220px);width:auto;max-width:94%;aspect-ratio:2/3;margin:0;translate:none;transform:perspective(850px) rotateY(32deg) rotateZ(-2deg)}
+ .book-gallery .book-one .book-object{height:clamp(125px,38vw,220px);width:auto;max-width:94%;aspect-ratio:506/846;transform:rotate(-3deg)}
+ .book-gallery .book-two .book-object img,.book-gallery .book-three .book-object img{width:100%;height:100%;object-fit:contain;background:none}
+ .book-gallery .book-two .book-object:before,.book-gallery .book-three .book-object:before{left:-5px;width:7px}
+ .book-gallery .book:hover{transform:none}
+ .books h2{font-size:clamp(32px,9vw,42px)}
+ .library-links{gap:14px;font-size:14px}
+ .topics .illustration{width:clamp(58px,19vw,80px);height:clamp(58px,19vw,80px)}
+ .topics h3{font-size:clamp(18px,5.2vw,22px)}
+ .wrap,.hero-content{width:calc(100% - 40px)}
+ .hero h1{font-size:clamp(39px,11vw,52px)}
+ .press-side>a{grid-template-columns:80px minmax(0,1fr) 15px;gap:12px}
+ .press-side h3{font-size:24px}
+ .podcast-content{width:100%;margin:0}
+ footer>div{flex-wrap:wrap}
+}
