@@ -77,3 +77,5 @@
 .trajectory-banner>div{position:relative;width:100%;margin:0}
 .trajectory-banner .portrait figcaption{top:calc(100% + 12px)}
 }
+
+@media(min-width:721px){.podcast{min-height:clamp(600px,43vw,820px)}.podcast>img{object-position:56% top}.podcast-content{padding-top:90px;padding-bottom:90px}}
