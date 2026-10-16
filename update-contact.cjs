@@ -1,0 +1,17 @@
+const fs=require('fs');
+const contact='<div class="inner-page wrap"><div class="page-heading"><p class="eyebrow">Contacto</p><h1>Escríbele a Germán</h1><p class="lead">Un espacio para la correspondencia con sus lectores.</p></div><p>Próximamente estarán disponibles sus correos de contacto.</p><a class="text-link" href="/obra/">Consultar su obra</a></div>';
+function walk(dir){for(const e of fs.readdirSync(dir,{withFileTypes:true})){const f=dir+'/'+e.name;if(e.isDirectory())walk(f);else if(f.endsWith('.html')){let s=fs.readFileSync(f,'utf8');
+if(f==='dist/index.html')s=s.replace('<a class="button" href="/contacto/">Invitar a Germán</a><a class="button outline" href="/obra/">','<a class="button" href="/obra/">').replace(/<section class="contact" id="contacto">[\s\S]*?<\/section>/,'<section class="contact" id="contacto"><div class="wrap contact-inner"><div><p class="eyebrow">Contacto</p><h2>Escríbele a Germán</h2><p>Un espacio para la correspondencia con sus lectores.</p><p class="contact-availability">Próximamente estarán disponibles sus correos de contacto.</p></div></div></section>');
+s=s.replaceAll('<a class="button" href="/contacto/">Invitar a Germán</a>','<a href="/#contacto">Contacto</a>');
+s=s.replace(/<section class="format-section">[\s\S]*?<\/section>/g,'');
+if(f==='dist/contacto/index.html')s=s.replace(/<main id="contenido">[\s\S]*?<\/main>/,'<main id="contenido">'+contact+'</main>').replace(/<title>.*?<\/title>/,'<title>Contacto · Germán Rodrigo Mejía Pavony</title>').replace(/<meta name="description" content="[^"]*">/,'<meta name="description" content="Correspondencia con Germán Rodrigo Mejía Pavony.">');
+s=s.replaceAll('/app.js?v=3','/app.js?v=4').replaceAll('/archive.js?v=20','/archive.js?v=21');fs.writeFileSync(f,s);}}}walk('dist');
+let a=fs.readFileSync('dist/archive.js','utf8');
+a=a.replace(/<section class="format-section">[\s\S]*?<\/section>/g,'');
+a=a.replace(/title\('Invitar a Germán'\);page\(`[\s\S]*?`\)/,"title('Contacto');page("+JSON.stringify(contact.replace('<div class="inner-page wrap">','').slice(0,-6))+")");
+fs.writeFileSync('dist/archive.js',a);
+let app=fs.readFileSync('dist/app.js','utf8');
+app=app.replace(/invite:`[\s\S]*?`,credits:/,'credits:').replace('<p>El tema y el formato de cada conferencia, taller o clase se acuerdan con la institución.</p><button class="button" data-open="invite">Preparar una invitación</button>','');
+app=app.replace(/document\.addEventListener\('submit',e=>\{if\(e\.target\.id!=='invite-form'\)[\s\S]*?\}\);/,'');
+fs.writeFileSync('dist/app.js',app);
+console.log('Contact updated; invitation calls and draft form removed.');
