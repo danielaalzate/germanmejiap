@@ -83,3 +83,27 @@
 footer .studio-credit{grid-column:1/-1;flex-basis:100%;display:block;width:100%;font-size:12px;line-height:1.5;color:inherit;opacity:.75}
 
 footer.wrap{flex-wrap:wrap}
+header .nav-dropdown{position:relative}
+header .nav-dropdown summary{cursor:pointer;list-style:none;display:flex;align-items:center;gap:8px;padding:10px 0;font:inherit}
+header .nav-dropdown summary::-webkit-details-marker{display:none}
+header .nav-dropdown summary:focus-visible{outline:2px solid #a84118;outline-offset:5px}
+header .nav-dropdown-panel{position:absolute;top:100%;left:-18px;min-width:190px;padding:12px;background:#fff8ed;border:1px solid #d8ccbc;box-shadow:0 12px 28px #231d181a;z-index:80;display:flex;flex-direction:column;gap:0}
+header .nav-dropdown-panel a,header .nav-dropdown-panel>span{display:block;padding:10px 12px;white-space:nowrap}
+header .nav-dropdown-panel a:hover{background:#eee4d4}
+header .language-menu .nav-dropdown-panel{left:auto;right:0}
+header .nav-dropdown-panel small{display:block;font-size:11px;color:#6c6257}
+header .nav-dropdown-panel [aria-disabled=true]{color:#746c60}
+.footer-emails{display:flex;flex-wrap:wrap;gap:12px 28px;flex-basis:100%;font-size:15px;overflow-wrap:anywhere}
+.contact-emails{display:flex;flex-wrap:wrap;gap:14px;margin-top:24px}
+.contact .contact-emails .button{background:transparent;border:1px solid currentColor;color:inherit}
+.book-gallery.five-books{grid-template-columns:repeat(5,minmax(0,1fr));gap:30px;align-items:end}
+.book-gallery.five-books .book{width:100%;margin:0;min-width:0;display:flex;align-items:flex-end;justify-content:center;align-self:end}
+.book-gallery.five-books .book-object{width:100%;height:auto;max-width:100%;margin:0;translate:none;transform:perspective(850px) rotateY(32deg) rotateZ(-2deg)}
+.book-gallery.five-books .book-one .book-object{transform:rotate(-3deg)}
+.book-gallery.five-books .book-object img{width:100%;height:auto;object-fit:contain}
+.book-gallery.five-books .book-four .book-object:before,.book-gallery.five-books .book-five .book-object:before{left:-8px;width:10px;background:linear-gradient(90deg,#0002,#fff3),var(--spine)}
+.book-four{--spine:#f28992}.book-five{--spine:#e9ddc3}
+@media(max-width:1000px){header nav{gap:17px}.book-gallery.five-books{gap:20px}}
+@media(max-width:720px){header nav.open{max-height:calc(100dvh - 90px);overflow:auto}header .nav-dropdown{width:100%}header .nav-dropdown summary{padding:8px 0}header .nav-dropdown-panel,header .language-menu .nav-dropdown-panel{position:static;box-shadow:none;border:0;border-left:1px solid #c9bca9;margin:4px 0 10px;padding:0 8px;min-width:0}header .nav-dropdown-panel a{font-size:16px}.book-gallery.five-books{grid-template-columns:repeat(2,minmax(0,1fr));gap:32px 24px}.book-gallery.five-books .book{height:250px}.book-gallery.five-books .book-object,.book-gallery.five-books .book-one .book-object{height:230px;width:auto;max-width:95%;aspect-ratio:auto}.book-gallery.five-books .book-object img{height:100%;width:auto;max-width:100%;object-fit:contain}.book-gallery.five-books .book:last-child{grid-column:1/-1;justify-self:center;width:50%}.contact-emails{align-items:stretch;flex-direction:column}.contact-emails .button{text-align:center;white-space:normal}.footer-emails{flex-direction:column}}
+.book-gallery.five-books .book-one .book-object img{position:absolute;width:189.723%;height:auto;max-width:none;max-height:none}
+@media(max-width:720px){.book-gallery.five-books .book-one .book-object{aspect-ratio:506/846;width:auto}}
