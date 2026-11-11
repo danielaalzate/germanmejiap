@@ -2337,6 +2337,33 @@
       "source": "https://www.youtube.com/watch?v=OTDJX8dZ3Y8&list=PLY4ppp_HGOsE",
       "series": "capsulas",
       "order": 3
+    },
+    {
+      "id": "dVPVj9Z3qWI",
+      "video": "dVPVj9Z3qWI",
+      "title": "El incidente de la tajada de sandía: la chispa que enfrentó a Colombia y EE. UU. en 1856",
+      "source": "https://www.youtube.com/watch?v=dVPVj9Z3qWI&list=PLY4ppp_HGOsE",
+      "series": "capsulas",
+      "order": 4,
+      "published": "2026-10-22"
+    },
+    {
+      "id": "iv_KJY6Q3J0",
+      "video": "iv_KJY6Q3J0",
+      "title": "¿Nació el Partido Conservador de Bolívar? El origen de los partidos tradicionales",
+      "source": "https://www.youtube.com/watch?v=iv_KJY6Q3J0&list=PLY4ppp_HGOsE",
+      "series": "capsulas",
+      "order": 5,
+      "published": "2026-10-29"
+    },
+    {
+      "id": "7RL-PoNB1bk",
+      "video": "7RL-PoNB1bk",
+      "title": "¿Cómo perdió sus tierras la Iglesia Católica en Colombia? Desamortización de bienes de manos muertas",
+      "source": "https://www.youtube.com/watch?v=7RL-PoNB1bk&list=PLY4ppp_HGOsE",
+      "series": "capsulas",
+      "order": 6,
+      "published": "2026-11-05"
     }
   ]
 }
