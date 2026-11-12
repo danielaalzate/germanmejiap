@@ -121,3 +121,5 @@ body>header{position:sticky;top:0;z-index:100;height:auto;min-height:94px;box-sh
 
 /* Identidad urbana suministrada por el autor */
 .brand-logo img,footer .brand-logo img{width:350px;height:auto;aspect-ratio:1477/469;object-fit:contain;mix-blend-mode:multiply}.brand-logo{max-width:100%;gap:0}header .brand-logo{flex-shrink:1}@media(min-width:801px) and (max-width:1100px){header .brand-logo img{width:280px;height:auto}}@media(max-width:800px){header .brand-logo img{width:260px;height:auto}footer .brand-logo img{width:300px;height:auto}}@media(max-width:390px){header .brand-logo img{width:225px;height:auto}header{padding-inline:16px;gap:12px}}
+
+.brand-logo img,footer .brand-logo img{mix-blend-mode:normal;background:transparent}
